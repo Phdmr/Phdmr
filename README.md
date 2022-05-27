@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Pedro Rocha -- @Phdmr
+- 👀 I’m interested in Front-End development
+- 🌱 I’m currently learning JavaScript and Python
+- 💞️ I’m looking to collaborate on Front-End and possibly on Back-end development
+- 📫 How to reach me:
+-   Email: pedrohenriquedornele@gmail.com
+-   Linkedin: https://www.linkedin.com/in/pedro-henrique-dornele-machado-rocha/
